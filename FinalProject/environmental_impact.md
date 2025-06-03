@@ -1,4 +1,4 @@
-# 🌍 Environmental Impact of This Project
+# ♻️ Environmental Impact of This Project
 
 Experiments were conducted using Google Cloud (Colab backend) in region `europe-west1`, which has a carbon efficiency of **0.27 kgCO₂eq/kWh**.
 
