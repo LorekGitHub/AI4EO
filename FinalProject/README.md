@@ -1,4 +1,4 @@
-# GEOL0069 - UCL - Project - Cloud/Snow/Ice Classification and Explainable AI Examples
+# 🌍 GEOL0069 - UCL - Project - Cloud/Snow/Ice Classification and Explainable AI Examples
 
 This repository contains:
 
