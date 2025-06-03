@@ -3,10 +3,10 @@
 This repository contains:
 
 A description of the ML problem to be tackled,
-A figure illustrating the remote sensing technique and AI algorithm's implementation,
-Sound documentation in the accompanying Jupyter Notebook,
-A video recording link that explains the code,
-An assessment of the environmental cost of this project.
+a figure illustrating the remote sensing technique and AI algorithm's implementation,
+sound documentation in the accompanying Jupyter Notebook,
+a video recording link that explains the code,
+and an assessment of the environmental cost of this project.
 
 Monitoring and distinguishing between snow, ice, and cloud in high-resolution satellite imagery is a critical task for a wide range of environmental and climate-related applications. This distinction is particularly important in alpine and mountainous regions, where persistent cloud cover, complex topography, and limited in-situ observations make traditional monitoring difficult.
 
