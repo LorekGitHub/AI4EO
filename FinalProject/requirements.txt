@@ -1,0 +1,12 @@
+datetime
+earthengine-api
+google
+matplotlib
+numpy
+pandas
+rasterio
+requests
+scikit-learn
+shap
+xgboost
+zipfile
